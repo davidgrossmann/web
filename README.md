@@ -2,4 +2,4 @@
 
 Jednoduchý responzivní web pro stavební firmu.
 
-(./screenshot.png)
+![](./screenshot.png)
